@@ -2,7 +2,7 @@
 
 
 
-It's a simple stopwatch application build with React.js
+It's a simple stopwatch application built with React.js
 
 Has simple timer Start, Pause & Flag functionality
 
