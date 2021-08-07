@@ -1,6 +1,12 @@
 **mini react project - stopwatch app**
 
 
+
+It's a simple stopwatch application build with React.js
+
+Has simple timer Start, Pause & Flag functionality
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
